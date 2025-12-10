@@ -65,6 +65,10 @@ Login screen – prihlásenie/registrácia
 
 Groups view – zoznam skupín
 
+<img width="973" height="393" alt="image" src="https://github.com/user-attachments/assets/2853a9e5-8a0f-4133-9d36-1108b8f67f22" />
 
+Tasks view – správa úloh
+
+<img width="737" height="522" alt="image" src="https://github.com/user-attachments/assets/ce065444-6218-4356-b825-152783584dd8" />
 
 
