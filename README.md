@@ -41,6 +41,7 @@ Používateľ ↔ ActivityLog (sledovanie akcií).
 
 
 REST API
+Základné endpointy:
 POST /users/register – registrácia používateľa
 POST /users/login – prihlásenie
 GET /groups – zoznam skupín
@@ -51,6 +52,19 @@ POST /tasks – pridanie úlohy
 PUT /tasks/{id} – zmena stavu úlohy
 DELETE /tasks/{id} – zmazanie úlohy
 
+Dokumentácia dostupná cez Swagger UI:
+http://localhost:8080/swagger-ui/index.html#/
+
 WebSocket
 /ws/notifications – odosielanie notifikácií o nových úlohách, materiáloch alebo členoch skupiny.
+
+Ukážky používateľského rozhrania
+Login screen – prihlásenie/registrácia
+
+<img width="490" height="480" alt="image" src="https://github.com/user-attachments/assets/5673c135-54de-4b41-a310-94973a2054c2" />
+
+Groups view – zoznam skupín
+
+
+
 
