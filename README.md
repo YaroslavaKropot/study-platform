@@ -9,6 +9,7 @@ komunikovať v reálnom čase cez notifikácie.
 Cieľ: zjednodušiť tímovú prácu, zvýšiť prehľad o aktivitách a podporiť organizáciu štúdia.
 
 Architektúra systému
+
 Architektúra sa riadi modelom klient-server:
 Frontend (JavaFX)
 poskytuje používateľské rozhranie,
